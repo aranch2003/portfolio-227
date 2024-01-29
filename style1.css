@@ -1,0 +1,81 @@
+body{
+    background-color: rgb(148, 183, 21);
+}
+header {
+    background-color:  rgb(235, 71, 7);
+    color:azure;
+    text-align:center;
+    padding:5px;
+}
+
+nav{
+   
+}
+
+article{
+  
+}
+main{
+   position: relative;
+   left:15%;
+
+    
+}
+aside{
+    background-color: blanchedalmond;
+    float:left;
+    height:100vh;
+    width: 25vh;
+}
+
+footer{
+   
+    
+    background-color: rgb(235, 71, 7);
+    position:relative;
+    bottom:80%;
+    left:12%;
+}
+
+section{
+   
+}
+figure{
+    
+}
+img{
+    width:200px;
+    height:200px;
+    position: relative;
+    left:75%;
+}
+a:link {
+    color:black;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:visited {
+    color:blueviolet;
+    background-color: transparent;
+    text-decoration: none;
+  }
+  
+  a:hover {
+    color:whitesmoke;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  
+  a:active {
+    color: yellow;
+    background-color: transparent;
+    text-decoration: underline;
+  }
+  .abc{
+    color: rgb(66, 15, 232);
+  }
+  .pqr{
+    text-align: center;
+    color: red;
+  }
